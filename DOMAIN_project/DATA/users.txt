@@ -1,0 +1,6 @@
+Hudha,$2b$12$mqt/jHfO85ET26G0p1FBLe/QCYSxR5yvCuNYoXb65S.cycuDXcYHC,admin
+Hanan,$2b$12$4kBr.z/6P4U0RKK9IfOfeuvpIv1J.Qs0jlOnc9Joa06PohoxfSWlK,admin
+Amsha,$2b$12$BVmZCXs8o0NfRwkIXzdPOuuetfqaKnbWp37zaz9/Np1IWl3HnibDG,analyst
+Anna,$2b$12$hU34F3PHzPFUKGOnXlgkreEr9idYJdKzZZ7i3SeSM1c9KvqjZwHp6,admin
+Bob,$2b$12$LmLsxKObnKyJpEkCroVHuuFe8/0kIza6wkpsS3fs1/5sIwKILfIF.,user
+Alice,$2b$12$5Y2ZQFRvQQu39MJAXIqz6ONkz.LOxUGvaL0RfMBr0..7tYsRakyf6,user
